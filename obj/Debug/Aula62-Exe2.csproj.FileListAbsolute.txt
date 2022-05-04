@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\bin\Debug\Aula62-Exe2.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\bin\Debug\Aula62-Exe2.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\bin\Debug\Aula62-Exe2.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62-Exe2.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62-Exe2.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62_Exe2.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62_Exe2.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62-Exe2.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62-Exe2.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62-Exe2.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula62-Exe2\obj\Debug\Aula62-Exe2.pdb
